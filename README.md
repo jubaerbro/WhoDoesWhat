@@ -130,21 +130,7 @@ The framework can be extended to:
 
 ---
 
-## Repository Structure
 
-```bash
-├── benchmark/              # Relational benchmark construction
-├── datasets/               # Dataset splits and annotations
-├── negatives/              # Hard negative generation
-├── training/               # RC-DPO training pipeline
-├── evaluation/             # Evaluation scripts
-├── analysis/               # Attention and margin analysis
-├── configs/                # Training configurations
-├── results/                # Experimental outputs
-└── README.md
-```
-
----
 
 ## Evaluation Metrics
 
